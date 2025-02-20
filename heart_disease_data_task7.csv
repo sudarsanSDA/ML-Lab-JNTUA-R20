@@ -1,0 +1,7 @@
+Age,Gender,ChestPainType,BloodPressure,Cholesterol,BloodSugar,ElectrocardiographicResults,MaxHeartRate,Angina,Oldpeak,Slope,Ca,Thal,HeartDisease
+63,Male,TypicalAngina,145,233,No,Normal,150,No,2.3,Upsloping,0,Normal,Yes
+67,Male,AtypicalAngina,160,286,No,Normal,108,No,1.5,Upsloping,0,Normal,Yes
+67,Female,NonAnginalPain,120,229,No,Normal,129,No,2.6,Flat,0,Normal,Yes
+37,Male,TypicalAngina,130,250,Yes,Normal,187,Yes,3.5,Upsloping,0,Normal,No
+41,Male,NonAnginalPain,120,220,No,Normal,178,No,1.5,Flat,0,Normal,No
+56,Female,TypicalAngina,140,239,No,Normal,140,No,1.0,Downsloping,0,Normal,Yes
